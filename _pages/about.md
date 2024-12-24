@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate, <a href='https://www.epfl.ch/en/'>EPFL</a>, Switzerland - MSc from <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu-Dhabi - BSc from <a href='https://seecs.nust.edu.pk/'>SEECS, NUST</a>, Pakistan.
+subtitle: PhD Candidate, <a href='https://www.uni-bonn.de/en/university/university?set_language=en'>Bonn University</a>, Germany - MSc from <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu-Dhabi - BSc from <a href='https://ksu.edu.sa/en'>SEECS, KSU</a>, Pakistan.
 
 profile:
   align: right
-  image: image_uzair_khattak.png
+  image: Anas_personal_V2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Lausanne, Switzerland </p>
-
+    <p>Bonn, Germany</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
