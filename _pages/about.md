@@ -25,5 +25,5 @@ Previously, I earned my Master’s degree in Computer Vision at at [Mohamed bin 
 My research interests include Video Anomaly Detection, Early Action Prediction, and Weather Forecasting, with a focus on leveraging advanced computer vision techniques and foundational models to address challenges in these domains.
 
 
- <a href="mailto:anas.allaham97@outlook.com">Email</a>  /  <a href="https://scholar.google.com/citations?user=hVii4u4AAAAJ&hl=en">Google Scholar</a>  /  <a href="https://github.com/AnasEmad11">Github</a> /  <a href="assets/pdf/CV_Nov_2024.pdf">CV</a> 
+ <a href="mailto:anas.allaham97@outlook.com">Email</a>  /  <a href="https://scholar.google.com/citations?user=hVii4u4AAAAJ&hl=en">Google Scholar</a>  /  <a href="https://github.com/AnasEmad11">Github</a> /  <a href="assets/pdf/CV_Dec_2024.pdf">CV</a> 
 
