@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-07-16 15:59:00-0400
+date: 2024-02-01 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our two papers are accepted at ICCV-2023! Checkout our works: [A self-regularization framework for adapting CLIP](https://muzairkhattak.github.io/PromptSRC/) and [Video-FocalNets for Video Action recognition](https://talalwasim.github.io/Video-FocalNets/)!
+Our paper titled ["Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline"](https://anasemad11.github.io/CLAP/) has been accepted for publication at CVPR 2024.
