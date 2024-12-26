@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate, <a href='https://www.uni-bonn.de/en/university/university?set_language=en'>Bonn University</a>, Germany - MSc from <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu-Dhabi - BSc from <a href='https://ksu.edu.sa/en'>, KSU</a>, Saudi Arabia.
+subtitle: PhD Candidate, <a href='https://www.uni-bonn.de/en/university/university?set_language=en'>Bonn University</a>, Germany - MSc from <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, UAE - BSc from <a href='https://ksu.edu.sa/en'>, KSU</a>, Saudi Arabia.
 
 profile:
   align: right
